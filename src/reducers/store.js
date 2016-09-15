@@ -12,7 +12,7 @@ const store = createReducer({code: ''}, {
     return {
       ...state,
       loading: false,
-      name: action.payload.nombre,
+      name: action.payload.name,
       token: action.payload.token
     };
   },
