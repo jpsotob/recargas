@@ -1,3 +1,5 @@
+<< En las tareas se define el tiempo y no la dificultad, la dificultad se le asigna a la historia de usuario.>>
+
 # Inciar recarga
 
 ## Modelo de recarga
