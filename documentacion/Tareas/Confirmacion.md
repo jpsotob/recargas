@@ -1,3 +1,5 @@
+<<En las tareas tienes que definir el tiempo que te lleva cada una de ellas (hrs) y no la dificultad.>>
+
 # Confirmacion
 
 ## Ruta de api para confirmar una recarga
