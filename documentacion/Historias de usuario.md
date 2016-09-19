@@ -1,3 +1,5 @@
+<<Si sólo son tres historias de usuario, la prioridad debe estar definida en base al total de tareas, es decir, 1,2 y 3. En donde 3 podría ser una tarea de mayor prioridad (ejemplo).>>
+
 # Historias de Usuario
 
 ## Login
